@@ -1,0 +1,264 @@
+2022-06-30T12:20:39.997+05:30| inst-build-19376536| I0: [Resource] LOG_INST_NAME = <not defined>
+2022-06-30T12:20:39.997+05:30| inst-build-19376536| I0: [Resource] LOG_MSI_NAME = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| E1: InstCreateLogFile: Unable to log to intended file C:\Users\ankit\AppData\Local\Temp\vminst.log| posix code 2 (No such file or directory)
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: Operating system info:
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0:    Admin install = TRUE
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0:    Major version = 10
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0:    Minor version = 0
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0:    Service pack  = 0
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0:    Build number  = 22000
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0:    Bitness       = 64-bit
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0:    Platform      = NT
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: Running from: "C:\Users\ankit\OneDrive\Desktop\WebDevelopment\HTML - Personal Site\VMware-player-full-16.2.3-19376536.exe"
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] LOG_CMD = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: Setup feature: LOG_CMD is enabled
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: Command line: 
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] MINORUPGRADE = 0
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: Performing standard MSI install/major upgrade
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] PRODUCT_REG_NAME = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: Silent installation = FALSE
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: Upgrade at shutdown = FALSE
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] SKIPADMINCHECK = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] OPERATION = INSTALLUPD
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] PRODUCTNAME = VMware Player
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] UPGRADECODE = {217329DA-42FA-11E2-B26F-FAF46088709B}
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] PRODUCTCODE = {F0005601-22C2-4044-BE2F-F2A83403B662}
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] LANGUAGES = 1041 2052
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] VM_DATABASE64 = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] VM_DATABASE = VMwarePlayer.msi
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] SFXINSERT = 1767424
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] VMIOPTION = one
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] CACHEMSI = 1
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: Cache MSI set to TRUE
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] MINIMUM_9X_MSI = 200
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] MINIMUM_NT_MSI = 300
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] INSTMSIW = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] VCRUNTIME32 = vcredist_x86.exe
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] VCRUNTIME64 = vcredist_x64.exe
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] VCRUNTIME32_ALT = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] VCRUNTIME64_ALT = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] PROPERTIES = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] OLDCODES = 
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Resource] HELPER_UI = <not defined>
+2022-06-30T12:20:39.997+05:30| BootStrapper-build-19376536| I0: [Info] Loading splash bitmap from resource id 1033.
+2022-06-30T12:20:40.013+05:30| BootStrapper-build-19376536| I0: [Info] Loaded splash bitmap from resource 1033.
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: UI thread started successfully
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: The user's default locale is 16393
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: Total unpacked size will be 583 MB (610803640 bytes)
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: [Resource] REQ_MB_SPACE = <not defined>
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: Total space required to unpack is 750 MB (785393168 bytes)
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: Attempting to find best location for unpacking temporary installation files
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: Examining drive for temp folder "C:\Users\ankit\AppData\Local\Temp\"
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: Local fixed drive C: has 175716 MB (184250769408 bytes) free
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: Local fixed drive D: has 748010 MB (784345198592 bytes) free
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: CurrentLocation "C:\VMwareTemp\{F0005601-22C2-4044-BE2F-F2A83403B662}~setup\"
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I2: Util_IsDirectory: Not a directory: C:\VMwareTemp\{F0005601-22C2-4044-BE2F-F2A83403B662}~setup\| winerror code 3 (The system cannot find the path specified.)
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I2: Util_CreateFullPath: Creating directory 'C:\VMwareTemp\'
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I2: Util_CreateFullPath: Creating directory 'C:\VMwareTemp\{F0005601-22C2-4044-BE2F-F2A83403B662}~setup\'
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: Selecting "C:\VMwareTemp\{F0005601-22C2-4044-BE2F-F2A83403B662}~setup\" for unpacking temp files
+2022-06-30T12:20:40.073+05:30| BootStrapper-build-19376536| I0: Extracting setup files to "C:\VMwareTemp\{F0005601-22C2-4044-BE2F-F2A83403B662}~setup\"
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0:   --> VMwarePlayer.msi [581607424]
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 0.
+2022-06-30T12:20:40.088+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 1.
+2022-06-30T12:20:40.104+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 2.
+2022-06-30T12:20:40.104+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 3.
+2022-06-30T12:20:40.104+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 4.
+2022-06-30T12:20:40.120+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 5.
+2022-06-30T12:20:40.120+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 6.
+2022-06-30T12:20:40.120+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 7.
+2022-06-30T12:20:40.135+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 8.
+2022-06-30T12:20:40.135+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 9.
+2022-06-30T12:20:40.135+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 10.
+2022-06-30T12:20:40.151+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 11.
+2022-06-30T12:20:40.151+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 12.
+2022-06-30T12:20:40.151+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 13.
+2022-06-30T12:20:40.151+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 14.
+2022-06-30T12:20:40.166+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 15.
+2022-06-30T12:20:40.166+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 16.
+2022-06-30T12:20:40.166+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 17.
+2022-06-30T12:20:40.182+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 18.
+2022-06-30T12:20:40.189+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 19.
+2022-06-30T12:20:40.196+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 20.
+2022-06-30T12:20:40.201+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 21.
+2022-06-30T12:20:40.206+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 22.
+2022-06-30T12:20:40.211+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 23.
+2022-06-30T12:20:40.217+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 24.
+2022-06-30T12:20:40.222+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 25.
+2022-06-30T12:20:40.227+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 26.
+2022-06-30T12:20:40.232+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 27.
+2022-06-30T12:20:40.236+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 28.
+2022-06-30T12:20:40.242+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 29.
+2022-06-30T12:20:40.249+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 30.
+2022-06-30T12:20:40.254+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 31.
+2022-06-30T12:20:40.260+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 32.
+2022-06-30T12:20:40.265+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 33.
+2022-06-30T12:20:40.269+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 34.
+2022-06-30T12:20:40.274+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 35.
+2022-06-30T12:20:40.278+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 36.
+2022-06-30T12:20:40.283+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 37.
+2022-06-30T12:20:40.288+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 38.
+2022-06-30T12:20:40.293+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 39.
+2022-06-30T12:20:40.298+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 40.
+2022-06-30T12:20:40.303+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 41.
+2022-06-30T12:20:40.308+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 42.
+2022-06-30T12:20:40.314+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 43.
+2022-06-30T12:20:40.319+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 44.
+2022-06-30T12:20:40.324+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 45.
+2022-06-30T12:20:40.329+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 46.
+2022-06-30T12:20:40.334+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 47.
+2022-06-30T12:20:40.339+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 48.
+2022-06-30T12:20:40.339+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 49.
+2022-06-30T12:20:40.339+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 50.
+2022-06-30T12:20:40.339+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 51.
+2022-06-30T12:20:40.354+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 52.
+2022-06-30T12:20:40.354+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 53.
+2022-06-30T12:20:40.354+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 54.
+2022-06-30T12:20:40.370+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 55.
+2022-06-30T12:20:40.370+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 56.
+2022-06-30T12:20:40.370+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 57.
+2022-06-30T12:20:40.386+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 58.
+2022-06-30T12:20:40.386+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 59.
+2022-06-30T12:20:40.386+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 60.
+2022-06-30T12:20:40.401+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 61.
+2022-06-30T12:20:40.401+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 62.
+2022-06-30T12:20:40.401+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 63.
+2022-06-30T12:20:40.417+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 64.
+2022-06-30T12:20:40.417+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 65.
+2022-06-30T12:20:40.417+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 66.
+2022-06-30T12:20:40.417+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 67.
+2022-06-30T12:20:40.432+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 68.
+2022-06-30T12:20:40.432+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 69.
+2022-06-30T12:20:40.432+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 70.
+2022-06-30T12:20:40.448+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 71.
+2022-06-30T12:20:40.448+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 72.
+2022-06-30T12:20:40.448+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 73.
+2022-06-30T12:20:40.448+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 74.
+2022-06-30T12:20:40.464+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 75.
+2022-06-30T12:20:40.464+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 76.
+2022-06-30T12:20:40.464+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 77.
+2022-06-30T12:20:40.479+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 78.
+2022-06-30T12:20:40.479+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 79.
+2022-06-30T12:20:40.479+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 80.
+2022-06-30T12:20:40.479+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 81.
+2022-06-30T12:20:40.495+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 82.
+2022-06-30T12:20:40.495+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 83.
+2022-06-30T12:20:40.495+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 84.
+2022-06-30T12:20:40.495+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 85.
+2022-06-30T12:20:40.511+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 86.
+2022-06-30T12:20:40.511+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 87.
+2022-06-30T12:20:40.511+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 88.
+2022-06-30T12:20:40.526+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 89.
+2022-06-30T12:20:40.526+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 90.
+2022-06-30T12:20:40.539+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 91.
+2022-06-30T12:20:40.544+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 92.
+2022-06-30T12:20:40.549+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 93.
+2022-06-30T12:20:40.551+05:30| BootStrapper-build-19376536| I0: SetupProgressDlgProc: Current progress 94.
+2022-06-30T12:20:40.613+05:30| BootStrapper-build-19376536| I0:   --> vcredist_x86.exe [14319952]
+2022-06-30T12:20:40.629+05:30| BootStrapper-build-19376536| I0:   --> vcredist_x64.exe [14876264]
+2022-06-30T12:20:40.660+05:30| BootStrapper-build-19376536| I0: IsMsiUpgradeNecessary: No upgrade is necessary. Windows Installer version 500 meets minimum requirements
+2022-06-30T12:20:40.660+05:30| BootStrapper-build-19376536| I0: [Resource] VCRUNTIME_VER = 14
+2022-06-30T12:20:40.660+05:30| BootStrapper-build-19376536| I0: [Resource] VCRUNTIME_VER_ALT = <not defined>
+2022-06-30T12:20:40.660+05:30| BootStrapper-build-19376536| I0: ** InstallVCRedist [vcredist_x86.exe][ /Q /norestart]
+2022-06-30T12:20:40.660+05:30| BootStrapper-build-19376536| I2: Util_FileExists: Found "C:\VMwareTemp\{F0005601-22C2-4044-BE2F-F2A83403B662}~setup\vcredist_x86.exe"
+2022-06-30T12:20:40.660+05:30| BootStrapper-build-19376536| I0: Cannot get short temp path for VC redist installer.
+2022-06-30T12:20:40.660+05:30| BootStrapper-build-19376536| I0: DisplayMessageBox: "VMware Product Installation" - "Setup cannot continue.  The Microsoft Runtime DLL installer failed to complete installation."
+2022-06-30T12:22:54.149+05:30| BootStrapper-build-19376536| I0: Cleaning up temp dir "C:\VMwareTemp\{F0005601-22C2-4044-BE2F-F2A83403B662}~setup\"
+2022-06-30T12:22:54.149+05:30| BootStrapper-build-19376536| I2: Util_DeleteDirectory: Deleting [C:\VMwareTemp\{F0005601-22C2-4044-BE2F-F2A83403B662}~setup\]
+2022-06-30T12:22:54.208+05:30| BootStrapper-build-19376536| I2: Util_DeleteDirectory: Deleting [C:\VMwareTemp]
+2022-06-30T12:22:54.208+05:30| BootStrapper-build-19376536| I0: Setup exit code is: 1603
+2022-06-30T12:22:54.209+05:30| inst-build-19376536| E1: InstCreateLogFile: Unable to log to intended file C:\Users\ankit\AppData\Local\Temp\vminst.log| posix code 2 (No such file or directory)
+2022-06-30T12:22:54.209+05:30| inst-build-19376536| I2: Util_FileExists: Did not find file/directory: "C:\Users\ankit\AppData\Local\Temp\vminst.log"| posix code 2 (No such file or directory)
+2022-06-30T12:22:54.209+05:30| inst-build-19376536| I2: Util_FileExists: Did not find file/directory: "C:\Users\ankit\AppData\Local\Temp\vmmsi.log"| posix code 2 (No such file or directory)
