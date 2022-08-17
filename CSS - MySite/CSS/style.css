@@ -1,26 +1,35 @@
+/*------------------------TAG SELECTORS-----------------------*/
+
 body{
     margin: 0px;
+    text-align: center;
 }
 
-div {
-    background-color: #EAF9F5;
-}
 
 h1 {
     margin-block-start: 0px;
+    padding-top: 200px;
 }
 
-.middle-container{
-    background-color: blue;
-    height: 200px;
-    width: 200px;
-    
+/*--------------------------CLASS SELECTORS----------------*/
+
+
+.top-container{
+    background-color: #e0ebe8;
 }
 
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
 
-.bottom-container{
-    background-color: black;
-    height: 200px;
-    width: 200px;
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
 
+.mountain{
+    padding-top: 100px;
 }
